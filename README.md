@@ -5,7 +5,7 @@ Contains all notes and code of the ACM AI reading group
 
 Paper:
 
-**10/24/2020 - Foundations: ImageNet **
+**10/24/2020 - Foundations: ImageNet**
 
 Paper:
 
