@@ -17,7 +17,7 @@ Paper: https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convo
 
 Code:
 
-Slides:
+Slides: https://docs.google.com/presentation/d/1hcTjEwK_1vNgmnjI87Pe9ovmiVGYgSXUpV0EwHxdhXw/edit#slide=id.ga4bb48bfa5_0_5
 
 Discussion Notes:
 
