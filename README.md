@@ -7,7 +7,7 @@ Paper: https://arxiv.org/abs/1803.03635
 
 Code: https://github.com/google-research/lottery-ticket-hypothesis
 
-Slides:
+Slides: https://docs.google.com/presentation/d/1bGA0oKFUihA1BiLgePDzJMNF_JH7dXeje34TBi6mJLc/edit?usp=sharing
 
 Discussion Notes:
 
