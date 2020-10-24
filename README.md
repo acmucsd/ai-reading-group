@@ -1,6 +1,14 @@
 # AI Reading Group
 Contains all notes and code of the ACM AI reading group
 
+**10/24/2020 - State of the Art: The Lottery Ticket Hypothesis**
+
+Paper:
+
+**10/24/2020 - Foundations: ImageNet **
+
+Paper:
+
 **10/2/2020 - Enhancing the reliability of out-of-distribution image detection in neural networks**
 
 Paper: https://arxiv.org/pdf/1706.02690.pdf
