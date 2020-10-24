@@ -3,11 +3,23 @@ Contains all notes and code of the ACM AI reading group
 
 **10/24/2020 - State of the Art: The Lottery Ticket Hypothesis**
 
-Paper:
+Paper: https://arxiv.org/abs/1803.03635
+
+Code: https://github.com/google-research/lottery-ticket-hypothesis
+
+Slides:
+
+Discussion Notes:
 
 **10/24/2020 - Foundations: ImageNet**
 
-Paper:
+Paper: https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
+
+Code:
+
+Slides:
+
+Discussion Notes:
 
 **10/2/2020 - Enhancing the reliability of out-of-distribution image detection in neural networks**
 
