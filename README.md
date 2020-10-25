@@ -19,7 +19,7 @@ Code:
 
 Slides: https://docs.google.com/presentation/d/1hcTjEwK_1vNgmnjI87Pe9ovmiVGYgSXUpV0EwHxdhXw/edit#slide=id.ga4bb48bfa5_0_5
 
-Discussion Notes:
+Discussion Notes: https://docs.google.com/document/d/18gOWxqenYeAtYpHPgwCjMuMzjseTGqPcPfjdqVpia-E/edit?usp=sharing
 
 **10/2/2020 - Enhancing the reliability of out-of-distribution image detection in neural networks**
 
