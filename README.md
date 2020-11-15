@@ -1,6 +1,16 @@
 # AI Reading Group
 Contains all notes and code of the ACM AI reading group
 
+**11/14/2020 - U-Net**
+
+Paper: https://link.springer.com/content/pdf/10.1007%2F978-3-319-24574-4_28.pdf
+
+Code (Caffe): https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
+
+Slides: https://docs.google.com/presentation/d/1zOAsZt1IsDLuU-zq1K13bq4OPyFq5lMlRmCrk9Nxuk0/edit?usp=sharing
+
+Recording: https://www.youtube.com/watch?v=Bd3RGZ7KD9I
+
 **10/24/2020 - State of the Art: The Lottery Ticket Hypothesis**
 
 Paper: https://arxiv.org/abs/1803.03635
@@ -8,8 +18,6 @@ Paper: https://arxiv.org/abs/1803.03635
 Code: https://github.com/google-research/lottery-ticket-hypothesis
 
 Slides: https://docs.google.com/presentation/d/1bGA0oKFUihA1BiLgePDzJMNF_JH7dXeje34TBi6mJLc/edit?usp=sharing
-
-Discussion Notes:
 
 **10/24/2020 - Foundations: ImageNet**
 
