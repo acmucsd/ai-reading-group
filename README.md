@@ -9,7 +9,7 @@ Code (Caffe): https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
 
 Slides: https://docs.google.com/presentation/d/1zOAsZt1IsDLuU-zq1K13bq4OPyFq5lMlRmCrk9Nxuk0/edit?usp=sharing
 
-Recording: https://www.youtube.com/watch?v=Bd3RGZ7KD9I
+Recording: https://www.youtube.com/watch?v=U0mWGv8R6_Q
 
 **10/24/2020 - State of the Art: The Lottery Ticket Hypothesis**
 
